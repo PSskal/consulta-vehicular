@@ -1,0 +1,11 @@
+setuptools<71
+fastapi==0.138.2
+uvicorn[standard]==0.49.0
+pydantic==2.13.4
+requests==2.34.2
+python-dotenv==1.1.1
+selenium==4.45.0
+undetected-chromedriver==3.5.5
+numpy==2.5.0
+opencv-python-headless==4.13.0.92
+pytesseract==0.3.13

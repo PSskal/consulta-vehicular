@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+.claude/
+.env
+sunarp_*.png
+*.log
+/app.py
+/navegador.py
+/satlima.py
+/consultaveh.py
+/desktop.py
+/Dockerfile
+/.dockerignore
